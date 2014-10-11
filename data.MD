@@ -13,9 +13,9 @@ There is no need to install a server, only deploying the application is suffisen
 ## Create the database
 ### Download OSM data
 
-You can download OpenStreeMap data from [Cloudmade](http://downloads.cloudmade.com) which gracefully give access to several areas.
+You can download OpenStreeMap data from [Geofabrik](http://www.geofabrik.decl) which gracefully give access to several areas.
 
-We'll work on the suburban area around Paris called Île-de-France. You can download the ile-de-france.osm.bz2 file on [http://downloads.cloudmade.com/europe/western_europe/france/ile-de-france#downloads_breadcrumbs](http://downloads.cloudmade.com/europe/western_europe/france/ile-de-france#downloads_breadcrumbs).
+We'll work on the suburban area around Paris called Île-de-France. You can download the ile-de-france.osm.bz2 file on [http://download.geofabrik.de/europe/france.html](http://download.geofabrik.de/europe/france.html).
 If you want faster computations, you can use a smaller data set such as the very small country called Monaco.
 
 ### Create the routing enabled database
